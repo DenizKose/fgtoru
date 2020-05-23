@@ -1,4 +1,4 @@
-# fgtoru
+# FG to RU
 
 Утилита для Fantasy Grounds для конвертации кодировки из utf8 или iso 8859-1 в html-entities кодировки iso 8859-1
 
