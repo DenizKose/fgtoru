@@ -14,3 +14,6 @@
 * Если xml файлы содержат кодировку **utf**, то запустите **utf to iso.bat**
 
 Утилита сама вам подскажет, что да как.
+
+## Скачать
+https://github.com/DenizKose/fgtoru/releases
