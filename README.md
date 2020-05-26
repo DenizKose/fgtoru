@@ -24,3 +24,6 @@
 *Начиная с версии 0.2 у утилиты появился графический интерфейс*
 
 https://github.com/DenizKose/fgtoru/releases
+
+## Скриншот
+![Screenshot](https://b.radikal.ru/b27/2005/36/10c2e5100623.png)
